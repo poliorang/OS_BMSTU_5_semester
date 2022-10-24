@@ -1,0 +1,9 @@
+*.o
+*.exe
+*.DS_Store
+*.aux
+*.log
+*.out
+*.toc
+*.swp
+*.gz
